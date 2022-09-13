@@ -25,9 +25,11 @@ connect:
     url: https://twitter.com/FollowEstelle
   - title: LinkedIn
     url: https://www.linkedin.com/in/estelleauberix/
+  - title: Sessionize
+    url: https://sessionize.com/estellea
 
 location:
-  display: Paris, France
-  lat: 43.70
-  long: 7.25
+  display: Nice, France
+  lat: 43.6961
+  long: 7.27178
 
